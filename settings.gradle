@@ -1,0 +1,5 @@
+//rootProject.name = 'MultiModuleCompilerBug'
+include 'module1'
+include 'module2'
+include 'module3'
+
